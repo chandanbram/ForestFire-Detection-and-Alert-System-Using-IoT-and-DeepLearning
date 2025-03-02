@@ -28,13 +28,17 @@
 3. **Automated Response:** Alerts are sent to authorities, and mitigation mechanisms are triggered.
 4. **Wildlife & Tribal Alerts:** High-frequency sounds and voice alerts warn affected areas.
 5. **Real-time Monitoring:** 
-Results
 
-Fire Detection Model Output:
+## Results
 
+Eco-Harbor Model:
+![Model](readme-images/eh1.png)
 
+Fire Detection:
+![Fire Detection](readme-images/eh2.png)
 
-Wildlife and Tribal Alert System:
+Telegram alert:
+![Telegram alert](readme-images/eh3.png)
 
 
 

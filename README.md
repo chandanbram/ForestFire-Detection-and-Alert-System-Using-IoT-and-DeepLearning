@@ -32,13 +32,13 @@
 ## Results
 
 ### Fire Detection Model Output:
-<img src="https://raw.githubusercontent.com/chandanbram/ForestFire-Detection-and-Alert-System-Using-IoT-and-DeepLearning/main/readme-images/eh1.png" width="300px">
+<img src="https://raw.githubusercontent.com/chandanbram/ForestFire-Detection-and-Alert-System-Using-IoT-and-DeepLearning/main/readme-images/eh1.png" width="400px">
 
 ### Wildlife and Tribal Alert System:
-<img src="https://raw.githubusercontent.com/chandanbram/ForestFire-Detection-and-Alert-System-Using-IoT-and-DeepLearning/main/readme-images/eh2.png" width="200px">
+<img src="https://raw.githubusercontent.com/chandanbram/ForestFire-Detection-and-Alert-System-Using-IoT-and-DeepLearning/main/readme-images/eh2.png" width="300px">
 
 ### IoT Sensor Data Monitoring:
-<img src="https://raw.githubusercontent.com/chandanbram/ForestFire-Detection-and-Alert-System-Using-IoT-and-DeepLearning/main/readme-images/eh3.png" width="100px">
+<img src="https://raw.githubusercontent.com/chandanbram/ForestFire-Detection-and-Alert-System-Using-IoT-and-DeepLearning/main/readme-images/eh3.png" width="200px">
 
 
 

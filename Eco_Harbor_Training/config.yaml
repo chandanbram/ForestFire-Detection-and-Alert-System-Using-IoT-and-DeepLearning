@@ -1,0 +1,8 @@
+
+path: E:/Eco_Harbor_Training  # dataset root dir
+train: data/images/train  # train images (relative to 'path')
+val: data/images/validation  # val images (relative to 'path')
+
+# Classes
+names:
+  0: Fire

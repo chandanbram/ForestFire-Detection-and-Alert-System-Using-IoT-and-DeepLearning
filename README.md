@@ -31,14 +31,15 @@
 
 ## Results
 
-### Eco-Harbor Model:
-<img src="(readme-images/eh1.png" alt="Model" width="500px">
+### Fire Detection Model Output:
+<img src="https://raw.githubusercontent.com/chandanbram/ForestFire-Detection-and-Alert-System-Using-IoT-and-DeepLearning/main/readme-images/eh1.png" width="300px">
 
-### Fire Detection:
-<img src="(readme-images/eh2.png" alt="Model" width="300px">
+### Wildlife and Tribal Alert System:
+<img src="https://raw.githubusercontent.com/chandanbram/ForestFire-Detection-and-Alert-System-Using-IoT-and-DeepLearning/main/readme-images/eh2.png" width="200px">
 
-### Telegram alert:
-<img src="(readme-images/eh3.png" alt="Model" width="200px">
+### IoT Sensor Data Monitoring:
+<img src="https://raw.githubusercontent.com/chandanbram/ForestFire-Detection-and-Alert-System-Using-IoT-and-DeepLearning/main/readme-images/eh3.png" width="100px">
+
 
 
 

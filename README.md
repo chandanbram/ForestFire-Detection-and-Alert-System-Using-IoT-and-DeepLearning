@@ -31,14 +31,14 @@
 
 ## Results
 
-Eco-Harbor Model:
-![Model](readme-images/eh1.png)
+### Eco-Harbor Model:
+<img src="(readme-images/eh1.png" alt="Model" width="500px">
 
-Fire Detection:
-![Fire Detection](readme-images/eh2.png)
+### Fire Detection:
+<img src="(readme-images/eh2.png" alt="Model" width="300px">
 
-Telegram alert:
-![Telegram alert](readme-images/eh3.png)
+### Telegram alert:
+<img src="(readme-images/eh3.png" alt="Model" width="200px">
 
 
 

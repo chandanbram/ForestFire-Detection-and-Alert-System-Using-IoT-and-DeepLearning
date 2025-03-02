@@ -40,11 +40,3 @@
 ### IoT Sensor Data Monitoring:
 <img src="https://raw.githubusercontent.com/chandanbram/ForestFire-Detection-and-Alert-System-Using-IoT-and-DeepLearning/main/readme-images/eh3.png" width="200px">
 
-
-
-
-IoT Sensor Data Monitoring:
-
-
-
-Contribution
